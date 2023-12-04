@@ -15,7 +15,7 @@ def solution(a, d, included):
 result = solution(3, 4, [True, False, False, True, True])
 print("result =", result)
  
-
+ 
 # 다른 풀이
 # def solution(a, d, included):
 #     ai = a
