@@ -14,7 +14,7 @@ def solution(a, d, included):
 # 예시로 주어진 입력값을 사용하여 함수 호출 및 결과 출력
 result = solution(3, 4, [True, False, False, True, True])
 print("result =", result)
-
+ 
 
 # 다른 풀이
 # def solution(a, d, included):
